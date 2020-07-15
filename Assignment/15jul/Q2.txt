@@ -1,0 +1,15 @@
+methods of string 
+indexOf()
+lastIndexOf()
+search()
+slice()
+substring() 
+replace()
+
+methods of array
+toString()
+join()
+pop()
+push()
+splice()
+concat()
